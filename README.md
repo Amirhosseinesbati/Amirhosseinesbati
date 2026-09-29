@@ -1,5 +1,3 @@
-<img src="assets/profile-portrait.jpg" alt="Portrait of Amirhossein Esbati" width="150" align="right">
-
 # Amirhossein Esbati
 
 I work on **AI/LLM applications where outputs must be inspectable and actions must be reviewable**. My portfolio focuses on evaluation, retrieval, governed analytics, document workflows, and the engineering needed to make those systems usable.
