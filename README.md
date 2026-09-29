@@ -1,5 +1,7 @@
 # Amirhossein Esbati
 
+[LinkedIn](https://www.linkedin.com/in/amirhosseinesbati/) · [GitHub repositories](https://github.com/Amirhosseinesbati?tab=repositories)
+
 I work on **AI/LLM applications where outputs must be inspectable and actions must be reviewable**. My portfolio focuses on evaluation, retrieval, governed analytics, document workflows, and the engineering needed to make those systems usable.
 
 Start with the projects below. Each includes a local setup guide, architecture notes, tests, and an evaluation or implementation-status report. Bundled data are synthetic; connected model and provider results are identified separately.
